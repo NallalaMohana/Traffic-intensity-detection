@@ -27,3 +27,5 @@ Dataset: Diverse vehicle images with rigorous preprocessing, augmentation, and n
 ***Results***
 
 The system demonstrates high precision and recall in vehicle detection, effectively measures traffic intensity, and forecasts potential traffic anomalies. Provides valuable insights for proactive traffic management and urban planning.
+
+![image](https://github.com/user-attachments/assets/0db4d649-6634-4364-9d4f-45a89c91b897)
